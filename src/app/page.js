@@ -11,7 +11,6 @@ export default function Home() {
     <div className='relative z-0 bg-primary'>
       <div className={styles.main}>
         <Hero/>
-        {/* <AboutSection/> */}
         <Experience/>
         <Projects/>
         <Feedbacks/>
